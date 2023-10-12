@@ -84,7 +84,8 @@ For a complete CS self-taught program, the resources for my study plan have been
 ## Table of Contents
 
 ### The Study Plan
-<mark style="background-color: lightblue">Marked text</mark>
+<mark>Marked text</mark>
+
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
