@@ -84,7 +84,9 @@ For a complete CS self-taught program, the resources for my study plan have been
 ## Table of Contents
 
 ### The Study Plan
-<mark>Marked text</mark>
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
