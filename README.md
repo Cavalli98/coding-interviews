@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `DONE`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `NOT DONE`
-- 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `Done`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Not Done`
+
 ### The Study Plan
 
 - [What is it?](#what-is-it)
